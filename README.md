@@ -13,7 +13,7 @@
 
 - 📫 Reach me through mail **biswa.2004.bdk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pg8-Fced09BiwSiEmbV62W03mBVSgVeE/view?usp=sharing](https://drive.google.com/file/d/1pg8-Fced09BiwSiEmbV62W03mBVSgVeE/view?usp=sharing)
+- 📄 Know about my experiences [through my Resume](https://drive.google.com/file/d/1pg8-Fced09BiwSiEmbV62W03mBVSgVeE/view?usp=sharing)
 
 - ⚡ Know Me : <br>
   **» Interest In Programming & Development <br>

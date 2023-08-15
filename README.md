@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahoobishwajeet&label=Profile%20views&color=0e75b6&style=flat" alt="sahoobishwajeet" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sahoobishwa2004" target="blank"><img src="https://img.shields.io/twitter/follow/sahoobishwa2004?logo=twitter&style=for-the-badge" alt="sahoobishwa2004" /></a> </p>
+<p align="left"> <a href="https://twitter.com/2004SahooBishwa" target="blank"><img src="https://img.shields.io/twitter/follow/2004sahoobishwa?logo=twitter&style=for-the-badge" alt="2004sahoobishwa" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio Website](https://sahoobishwajeet.github.io/portfolio/)
 

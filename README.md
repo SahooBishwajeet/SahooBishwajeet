@@ -17,8 +17,8 @@
 
 - ⚡ Know Me : <br>
   **» Interest In Programming & Development <br>
-  » Proficiency In Graphics Designing <br>
-  » Exploring Web Development**
+» Proficiency In Graphics Designing <br>
+» Exploring Web Development,Computer Graphics & Other Interesting Stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

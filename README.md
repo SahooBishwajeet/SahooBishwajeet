@@ -23,7 +23,7 @@
       |            self.Website               = https://sahoobishwajeet.github.io/portfolio/
       │            self.Twitter               = https://twitter.com/2004sahoobishwa
       │            self.Telegram              = https://t.me/Sahoo_Bishwa_2004
-      |            self.Youtube               = https://www.youtube.com/channel/UCXjApjOZQLPHqd6HCsE-Qcg
+      |            self.Youtube               = https://www.youtube.com/@pacify-music
       |
 ──────┴──────────────────────────────────────────────────────────────
 📂 ~/code

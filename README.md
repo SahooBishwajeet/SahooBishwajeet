@@ -34,11 +34,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahooBishwajeet&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
-- 🔭 I’m currently working on [Mandelbrot Fractal](https://github.com/sahoobishwajeet/mandelbrotfractal)
+- 🔭 I’m currently working on [Game Of Life](https://github.com/SahooBishwajeet/GameOfLife)
 
-- 🌱 I’m currently learning **C++, Java, Python & SQL**
+- 🌱 I’m currently learning **C++, Python & Flutter**
 
-- 💬 Ask me about **C, HTML, CSS, Adobe Creative Suite, Canva & Blender**
+- 💬 Ask me about **C, Frontend Development, Adobe Creative Suite, Figma, Canva & Blender**
 
 - 📫 Reach me through mail **biswa.2004.bdk@gmail.com**
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishwajeet Sahoo</h1>
 <h3 align="center">A Student pursuing B.Tech in CSE in Indian Institute Of Information Technology, Sri City</h3>
+<h3 align="center">Smart India Hackathon, 2023 Runner-Up</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahoobishwajeet&label=Profile%20views&color=0e75b6&style=flat" alt="sahoobishwajeet" /> </p>
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishwajeet Sahoo</h1>
 <h3 align="center">A Student pursuing B.Tech in CSE in Indian Institute Of Information Technology, Sri City</h3>
+<h3 align="center">AgriAI Hackathon, 2025 Winner</h3
 <h3 align="center">Global Game Jam, 2024 Winner</h3>
 <h3 align="center">Smart India Hackathon, 2023 Runner-Up</h3
 
